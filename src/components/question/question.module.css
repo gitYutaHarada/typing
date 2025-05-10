@@ -17,6 +17,8 @@
     font-size: large;
 }
 .text{
+    color: black !important;
+    background-color: red;
     margin-top: 2rem;
     font-size: 2vw;
     letter-spacing: 0.1em;
