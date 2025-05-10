@@ -1,6 +1,6 @@
 "use client";
 
-import { Question } from "@/components/question";
+import { Question } from "@/components/questions";
 
 export default function Home() {
   return (
